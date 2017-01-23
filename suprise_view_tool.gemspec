@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["mikesupris1@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{Provides generated HTML data for Rails applications.}
+  spec.homepage      = "https://github.com/mikesuprise1/suprise_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
